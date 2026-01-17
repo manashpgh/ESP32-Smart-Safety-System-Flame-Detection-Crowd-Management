@@ -99,49 +99,44 @@ Calibration data ensures the system operates **robustly under real-world conditi
 ESP32-Smart-Safety-System-Flame-Detection-Crowd-Management/
 │
 ├── architecture/
-
-│   ├── crowd management circuit diagram.pdf
-
+│   ├── crowd_management_circuit_diagram.pdf
 │   └── edge_fog_cloud_overview.pdf
-│   
+│
 ├── firmware/
-
 │   ├── crowd_management_node/
-
-│   │   ├── crowd management code.txt
-
-|   |   └── crowdmqtt.txt
-|   |
-│   └── flame_detection_node/    
-│       ├── flame detection code.txt
-│       └── flamemqtt.txt
+│   │   ├── crowd_management_code.txt
+│   │   └── crowd_mqtt.txt
+│   │
+│   └── flame_detection_node/
+│       ├── flame_detection_code.txt
+│       └── flame_mqtt.txt
 │
 ├── hardware/
 │   ├── crowd_management_node/
-│   │   ├── crowd management simulation.jfif
-│   │   └── crowd management wiring.jfif
+│   │   ├── crowd_management_simulation.jfif
+│   │   └── crowd_management_wiring.jfif
 │   │
 │   └── flame_detection_node/
-│       ├── flame detection simulation.jfif
-│       └── flame detection wiring.jfif
+│       ├── flame_detection_simulation.jfif
+│       └── flame_detection_wiring.jfif
 │
 ├── iot_dashboard/
-│   ├── crowd thingboard dashboard.jpeg
-│   └── flame thingsboard dashboard.jpeg
+│   ├── crowd_thingsboard_dashboard.jpeg
+│   └── flame_thingsboard_dashboard.jpeg
 │
 └── media/
     ├── crowd_management/
-    |   ├── crowd management integration.mp4
-    │   ├── crowd management simulation.jfif
-    |   ├── crowd management wiring.jfif
-    |   └── crowd management.jfif
+    │   ├── crowd_management_integration.mp4
+    │   ├── crowd_management_simulation.jfif
+    │   ├── crowd_management_wiring.jfif
+    │   └── crowd_management.jpg
     │
     └── flame_detection/
-        ├── flame breadboard integration.mp4
-        ├── flame detection 2.jfif
-        ├── flame detection simulation.jfif
-        ├── flame detection wiring.jfif   
-        └── flame detection.jfif
+        ├── flame_breadboard_integration.mp4
+        ├── flame_detection_2.jfif
+        ├── flame_detection_simulation.jfif
+        ├── flame_detection_wiring.jfif
+        └── flame_detection.jpg
 
 ---
 
