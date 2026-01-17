@@ -138,6 +138,9 @@ ESP32-Smart-Safety-System-Flame-Detection-Crowd-Management/
         ├── flame_detection_wiring.jfif
         └── flame_detection.jpg
 
+
+
+
 ---
 
 ## 🧠 Skills Demonstrated
